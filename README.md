@@ -40,7 +40,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/intelli-snake.git
+git clone https://github.com/eshansharma01/intelli-snake.git
 
 Install the required dependencies:
 
