@@ -1,4 +1,6 @@
 Intelli Snake
+
+
 Intelli Snake is an interactive and modern version of the classic snake game, utilizing real-time hand tracking with OpenCV and the cvzone library. In this project, players control the snake's movement using their hand gestures detected through a webcam. The game challenges players to collect food items to grow the snake while avoiding collisions.
 ----------------------------------------------------------------------------------------------------------------------------
 Features
