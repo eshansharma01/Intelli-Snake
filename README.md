@@ -62,4 +62,3 @@ License
 
 This project is licensed under the MIT License.
 
-Feel free to adjust the description to better fit your preferences or any additional details you might want to include.
